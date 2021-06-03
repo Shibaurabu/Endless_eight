@@ -1,0 +1,1 @@
+puts (n=gets.to_i-1988)<1?:not_heisei:"平成#{n==1?"元":n}年"

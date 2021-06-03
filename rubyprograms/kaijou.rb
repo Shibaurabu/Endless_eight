@@ -1,0 +1,1 @@
+n=1;gets.to_i.downto(1){|i|n*=i};p n
