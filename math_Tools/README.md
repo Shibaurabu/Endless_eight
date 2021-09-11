@@ -1,7 +1,7 @@
 # 数学便利ツールについて
 数学やその他の問題を解いたり作ったりするときに便利なツールです。  
 Python3の導入が必要です。  
-ライブラリ等は一切使用しておりません。(意地)  
+ライブラリ等はできるだけ使用しておりません。(意地)  
 
 ## ツールリスト
 - [modの計算ツール](https://github.com/Shibaurabu/Endless_eight/blob/master/math_Tools/mod.py)
