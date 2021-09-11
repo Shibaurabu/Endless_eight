@@ -4,7 +4,7 @@ Python3の導入が必要です。
 ライブラリ等は一切使用しておりません。(意地)  
 
 ## ツールリスト
-- [modの計算ツール](https://github.com/Shibaurabu/Endless_eight/blob/master/Math%20Tools/mod.py)
+- [modの計算ツール](https://github.com/Shibaurabu/Endless_eight/blob/master/math_Tools/mod.py)
   - x ≡ a(mod b)のときのxの値を求めます。
   - 複数連立することも可能。
 
