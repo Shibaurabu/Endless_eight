@@ -1,0 +1,147 @@
+
+
+
+/*＝＝＝ヘッダー＝＝＝*/
+header{
+    background-color: #00bcd4;
+    padding-right: 88px;
+}
+
+#headerToTop{
+    display: inline-block;
+}
+#headerTitle{
+    font-size: 56px;
+    font-family: 'Klee One', cursive;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: auto;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    background-color: #ECECEC;
+    border-radius: 20px;
+}
+
+/*＝＝＝メイン＝＝＝*/
+main{
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.subjects > h1 {
+    padding: 5px;
+    padding-left: 20px;
+    border: solid 2px darkgrey;
+    border-radius: 10px;
+    font-family: 'Kiwi Maru', serif;
+    font-size: 48px;
+    background-color: #ECECEC;
+}
+
+.subjects_contents{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+
+h2{
+    font-size: 36px;
+    font-family: 'Kiwi Maru', serif;
+}
+
+#Contents{
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    padding-right: auto;
+    border: solid 3px darkgrey;
+    border-radius: 7px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 28px;
+    position: relative;
+    display: inline-block;
+    font-weight: bold;
+    padding: 0.25em 0.5em;
+    text-decoration: none;
+    color: #00BCD4;
+    background: #ECECEC;
+    transition: .4s;
+}
+a:hover{
+    background: #00bcd4;
+    color: white;
+}
+
+#toTop{
+    width: 100px;
+}
+
+.hani{
+    border-radius: 5px;
+    border: dashed 3px lightskyblue;
+    background-color: rgba(135, 207, 235, 0.329);
+    padding: 5px;
+}
+
+.mainText{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding: 30px;
+    border: solid 3px green;
+}
+
+details{
+    border: solid 3px tomato;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+}
+details[open]{
+    border: dotted 3px black;
+    border-radius: 10px;
+}
+summary{
+    font-size: 24px;
+}
+
+
+.upper{
+    position:fixed;
+    right:50px;
+    bottom:50px;
+    transition:1s;
+    opacity:0.7;
+    border-radius: 10px;
+    border: solid 2px black;
+    }
+.upper:hover{
+    opacity:1;
+    }
+
+
+/*＝＝＝フッター＝＝＝*/
+footer{
+    background-color: #00bcd4;
+    left: 0;
+    right: 0;
+    padding: 20px;
+    padding-right: 130px;
+    margin: 0;
+    display: flex;
+}
+#toTopFooter{
+    width: 80px;
+    margin-right: 30px;
+}
+
+#footer1{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
