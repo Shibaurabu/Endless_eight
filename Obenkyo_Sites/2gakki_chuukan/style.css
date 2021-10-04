@@ -32,14 +32,16 @@ main{
     padding-left: 100px;
     padding-right: 100px;
 }
+
+
 .subjects > h1 {
     padding: 5px;
     padding-left: 20px;
-    border: solid 2px darkgrey;
+    border: solid 2px #0E376F;
     border-radius: 10px;
     font-family: 'Kiwi Maru', serif;
     font-size: 48px;
-    background-color: #ECECEC;
+    background-color: #FAFAFA;
 }
 
 .subjects_contents{
@@ -88,7 +90,7 @@ a:hover{
 .hani{
     border-radius: 5px;
     border: dashed 3px lightskyblue;
-    background-color: rgba(135, 207, 235, 0.329);
+    background-color: rgba(135, 207, 235, 0.3);
     padding: 5px;
 }
 
@@ -102,12 +104,15 @@ a:hover{
 details{
     border: solid 3px tomato;
     border-radius: 5px;
+    background-color: #FCE2DF;
     margin-bottom: 5px;
     padding: 15px;
+    cursor: pointer;
 }
 details[open]{
     border: dotted 3px black;
     border-radius: 10px;
+    background-color: #FDFDFD;
 }
 summary{
     font-size: 24px;
