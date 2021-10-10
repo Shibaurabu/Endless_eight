@@ -119,6 +119,30 @@ summary{
     cursor: pointer;
 }
 
+#rongo{
+    font-family: 'Shippori Mincho B1', serif;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+}
+
+#kenpo{
+    padding: 20px;
+    font-size: x-large;
+}
+
+
+.lists{
+    display:inline-block
+}
+
+table{
+    text-align: center;
+}
+td{
+    padding: 5px;
+}
+
+
 
 .upper{
     position:fixed;
