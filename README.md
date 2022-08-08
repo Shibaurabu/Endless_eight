@@ -5,7 +5,7 @@
 
 ・NpieЯ
 
-・まぐれいぜい
+・m9gengar（まぐげんがー）
 
 ・Natto133 (Discord:OH- Hydroxide_ion)  
 write your name...**ここに名前を書く**
