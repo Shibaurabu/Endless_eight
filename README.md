@@ -7,7 +7,7 @@
 
 ・まぐれいぜい
 
-・セシウム133・9192631770 (にわか)  
+・Natto133 (Discord:OH- Hydroxide_ion)  
 write your name...**ここに名前を書く**
 
 ## ここはどこ
